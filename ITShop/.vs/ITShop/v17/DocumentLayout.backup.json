@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|d:\\laptrinh\\asp.net\\buoi1\\itshop\\itshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|solutionrelative:itshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|d:\\laptrinh\\asp.net\\buoi1\\itshop\\itshop\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|solutionrelative:itshop\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|d:\\laptrinh\\asp.net\\buoi1\\itshop\\itshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|solutionrelative:itshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|d:\\laptrinh\\asp.net\\buoi1\\itshop\\itshop\\controllers\\tinhtrangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|solutionrelative:itshop\\controllers\\tinhtrangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|d:\\laptrinh\\asp.net\\buoi1\\itshop\\itshop\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|solutionrelative:itshop\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|d:\\laptrinh\\asp.net\\buoi1\\itshop\\itshop\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|solutionrelative:itshop\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|d:\\laptrinh\\asp.net\\buoi1\\itshop\\itshop\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|solutionrelative:itshop\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|d:\\laptrinh\\asp.net\\buoi1\\itshop\\itshop\\controllers\\hangsanxuatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|solutionrelative:itshop\\controllers\\hangsanxuatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|d:\\laptrinh\\asp.net\\buoi1\\itshop\\itshop\\controllers\\dathangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|solutionrelative:itshop\\controllers\\dathangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|d:\\laptrinh\\asp.net\\buoi1\\itshop\\itshop\\controllers\\loaisanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|solutionrelative:itshop\\controllers\\loaisanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|d:\\laptrinh\\asp.net\\buoi1\\itshop\\itshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|solutionrelative:itshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|d:\\laptrinh\\asp.net\\buoi1\\itshop\\itshop\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|solutionrelative:itshop\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|d:\\laptrinh\\asp.net\\buoi1\\itshop\\itshop\\models\\hangsanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|solutionrelative:itshop\\models\\hangsanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|d:\\laptrinh\\asp.net\\buoi1\\itshop\\itshop\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|solutionrelative:itshop\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|d:\\laptrinh\\asp.net\\buoi1\\itshop\\itshop\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|solutionrelative:itshop\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|d:\\laptrinh\\asp.net\\buoi1\\itshop\\itshop\\models\\tinhtrang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|solutionrelative:itshop\\models\\tinhtrang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|d:\\laptrinh\\asp.net\\buoi1\\itshop\\itshop\\models\\dathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|solutionrelative:itshop\\models\\dathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|d:\\laptrinh\\asp.net\\buoi1\\itshop\\itshop\\models\\dathang_chitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|solutionrelative:itshop\\models\\dathang_chitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|d:\\laptrinh\\asp.net\\buoi1\\itshop\\itshop\\models\\itshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|solutionrelative:itshop\\models\\itshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|d:\\laptrinh\\asp.net\\buoi1\\itshop\\itshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|solutionrelative:itshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|d:\\laptrinh\\asp.net\\buoi1\\itshop\\itshop\\migrations\\20241006124448_khoitaocsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B4049E-1203-4AC1-96EC-01352E4F322B}|ITShop\\ITShop.csproj|solutionrelative:itshop\\migrations\\20241006124448_khoitaocsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ITShop\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ITShop\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-06T13:04:55.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ITShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ITShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T13:01:50.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ITShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ITShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T12:59:30.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "libman.json",
+              "DocumentMoniker": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\libman.json",
+              "RelativeDocumentMoniker": "ITShop\\libman.json",
+              "ToolTip": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\libman.json",
+              "RelativeToolTip": "ITShop\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T12:58:38.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TinhTrangController.cs",
+              "DocumentMoniker": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Controllers\\TinhTrangController.cs",
+              "RelativeDocumentMoniker": "ITShop\\Controllers\\TinhTrangController.cs",
+              "ToolTip": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Controllers\\TinhTrangController.cs",
+              "RelativeToolTip": "ITShop\\Controllers\\TinhTrangController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:52:08.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "ITShop\\Controllers\\SanPhamController.cs",
+              "ToolTip": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "ITShop\\Controllers\\SanPhamController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:51:31.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NguoiDungController.cs",
+              "DocumentMoniker": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Controllers\\NguoiDungController.cs",
+              "RelativeDocumentMoniker": "ITShop\\Controllers\\NguoiDungController.cs",
+              "ToolTip": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Controllers\\NguoiDungController.cs",
+              "RelativeToolTip": "ITShop\\Controllers\\NguoiDungController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:50:56.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HangSanXuatController.cs",
+              "DocumentMoniker": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Controllers\\HangSanXuatController.cs",
+              "RelativeDocumentMoniker": "ITShop\\Controllers\\HangSanXuatController.cs",
+              "ToolTip": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Controllers\\HangSanXuatController.cs",
+              "RelativeToolTip": "ITShop\\Controllers\\HangSanXuatController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:50:09.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatHangController.cs",
+              "DocumentMoniker": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Controllers\\DatHangController.cs",
+              "RelativeDocumentMoniker": "ITShop\\Controllers\\DatHangController.cs",
+              "ToolTip": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Controllers\\DatHangController.cs",
+              "RelativeToolTip": "ITShop\\Controllers\\DatHangController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:49:31.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoaiSanPhamController.cs",
+              "DocumentMoniker": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Controllers\\LoaiSanPhamController.cs",
+              "RelativeDocumentMoniker": "ITShop\\Controllers\\LoaiSanPhamController.cs",
+              "ToolTip": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Controllers\\LoaiSanPhamController.cs",
+              "RelativeToolTip": "ITShop\\Controllers\\LoaiSanPhamController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:48:51.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241006124448_KhoiTaoCSDL.cs",
+              "DocumentMoniker": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Migrations\\20241006124448_KhoiTaoCSDL.cs",
+              "RelativeDocumentMoniker": "ITShop\\Migrations\\20241006124448_KhoiTaoCSDL.cs",
+              "ToolTip": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Migrations\\20241006124448_KhoiTaoCSDL.cs",
+              "RelativeToolTip": "ITShop\\Migrations\\20241006124448_KhoiTaoCSDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:44:49.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Program.cs",
+              "RelativeDocumentMoniker": "ITShop\\Program.cs",
+              "ToolTip": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Program.cs",
+              "RelativeToolTip": "ITShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:42:09.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\appsettings.json",
+              "RelativeDocumentMoniker": "ITShop\\appsettings.json",
+              "ToolTip": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\appsettings.json",
+              "RelativeToolTip": "ITShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T12:39:45.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITShopDbContext.cs",
+              "DocumentMoniker": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Models\\ITShopDbContext.cs",
+              "RelativeDocumentMoniker": "ITShop\\Models\\ITShopDbContext.cs",
+              "ToolTip": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Models\\ITShopDbContext.cs",
+              "RelativeToolTip": "ITShop\\Models\\ITShopDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:38:48.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DatHang_ChiTiet.cs",
+              "DocumentMoniker": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Models\\DatHang_ChiTiet.cs",
+              "RelativeDocumentMoniker": "ITShop\\Models\\DatHang_ChiTiet.cs",
+              "ToolTip": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Models\\DatHang_ChiTiet.cs",
+              "RelativeToolTip": "ITShop\\Models\\DatHang_ChiTiet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:37:51.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DatHang.cs",
+              "DocumentMoniker": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Models\\DatHang.cs",
+              "RelativeDocumentMoniker": "ITShop\\Models\\DatHang.cs",
+              "ToolTip": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Models\\DatHang.cs",
+              "RelativeToolTip": "ITShop\\Models\\DatHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:35:22.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TinhTrang.cs",
+              "DocumentMoniker": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Models\\TinhTrang.cs",
+              "RelativeDocumentMoniker": "ITShop\\Models\\TinhTrang.cs",
+              "ToolTip": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Models\\TinhTrang.cs",
+              "RelativeToolTip": "ITShop\\Models\\TinhTrang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:35:00.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NguoiDung.cs",
+              "DocumentMoniker": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Models\\NguoiDung.cs",
+              "RelativeDocumentMoniker": "ITShop\\Models\\NguoiDung.cs",
+              "ToolTip": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Models\\NguoiDung.cs",
+              "RelativeToolTip": "ITShop\\Models\\NguoiDung.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:34:41.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "ITShop\\Models\\SanPham.cs",
+              "ToolTip": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Models\\SanPham.cs",
+              "RelativeToolTip": "ITShop\\Models\\SanPham.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:34:19.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HangSanXuat.cs",
+              "DocumentMoniker": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Models\\HangSanXuat.cs",
+              "RelativeDocumentMoniker": "ITShop\\Models\\HangSanXuat.cs",
+              "ToolTip": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Models\\HangSanXuat.cs",
+              "RelativeToolTip": "ITShop\\Models\\HangSanXuat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:33:43.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoaiSanPham.cs",
+              "DocumentMoniker": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Models\\LoaiSanPham.cs",
+              "RelativeDocumentMoniker": "ITShop\\Models\\LoaiSanPham.cs",
+              "ToolTip": "D:\\LapTrinh\\ASP.NET\\Buoi1\\ITShop\\ITShop\\Models\\LoaiSanPham.cs",
+              "RelativeToolTip": "ITShop\\Models\\LoaiSanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:33:07.468Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 184,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
